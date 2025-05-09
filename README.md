@@ -6,7 +6,7 @@ It is helpful because it reduces the need for explicit type annotations, making 
 
 ---
 
-## 🔗7. Union & Intersection Types Example
+## 7. Union & Intersection Types Example
 
 ```ts
 type ChickenBiriyani = {
