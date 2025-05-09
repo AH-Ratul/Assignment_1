@@ -1,4 +1,4 @@
-## Type Inference in TypeScript
+##5. Type Inference in TypeScript
 
 **Type Inference** means that TypeScript automatically understands the type of a variable or expression, even without declaring the type explicitly.
 
@@ -6,7 +6,7 @@ It is helpful because it reduces the need for explicit type annotations, making 
 
 ---
 
-## 🔗 Union Types Example
+## 🔗7. Union & Intersection Types Example
 
 ```ts
 type ChickenBiriyani = {
@@ -30,7 +30,8 @@ const yourDinner: Biriyani = {
   meat: "beef",
   tenderness: 9,
 };
-## 🔗 Intersection Types Example
+
+🔗 Intersection Types Example
 ts
 Copy
 Edit
