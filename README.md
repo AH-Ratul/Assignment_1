@@ -1,4 +1,4 @@
-##5. Type Inference in TypeScript
+## 5. Type Inference in TypeScript
 
 **Type Inference** means that TypeScript automatically understands the type of a variable or expression, even without declaring the type explicitly.
 
