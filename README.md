@@ -31,10 +31,8 @@ const yourDinner: Biriyani = {
   tenderness: 9,
 };
 
-🔗 Intersection Types Example
-ts
-Copy
-Edit
+-------------------------
+
 type BiriyaniBase = {
   riceType: string;
   meatType: string;
